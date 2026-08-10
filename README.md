@@ -38,7 +38,7 @@ The goal was to identify trends and relationships within the music industry thro
 
 <img width="1858" height="820" alt="image" src="https://github.com/user-attachments/assets/ee54dcd8-969e-42fa-b999-7d886471bb04" />
 
-[Spotify Trends Dashboard](https://public.tableau.com/app/profile/geronimo.riedener/viz/SpotifyFeatures_178343731606s 
+[Spotify Trends Dashboard](https://public.tableau.com/app/profile/geronimo.riedener/viz/SpotifyFeatures_178343731606s) 
 
 
 ## 🚀 Skills Developed
