@@ -15,7 +15,7 @@ Using the **Gapminder Health** dataset, I created a series of visualisations to 
 - Interactive dashboard creation
 <img width="1856" height="872" alt="image" src="https://github.com/user-attachments/assets/4bdcf132-9f29-49ab-b77e-cad0b5a251d5" />
 
-https://public.tableau.com/views/GlobalHealthInSights_17834213651050/GlobalHealthInsights?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+[Global Health Insights Dashboard](https://public.tableau.com/app/profile/geronimo.riedener/viz/GlobalHealthInSightss?publish=yes)
 
 
 These visualisations were combined into a dashboard called **Global Health Insights**, allowing users to explore health data through interactive filters and charts. The analysis revealed that life expectancy has generally increased over time, indicating improvements in healthcare, living standards, and public health initiatives worldwide. 【1-87eb72】
