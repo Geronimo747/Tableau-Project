@@ -15,7 +15,7 @@ Using the **Gapminder Health** dataset, I created a series of visualisations to 
 - Interactive dashboard creation
 <img width="1856" height="872" alt="image" src="https://github.com/user-attachments/assets/4bdcf132-9f29-49ab-b77e-cad0b5a251d5" />
 
-[Global Health Insights Dashboard](https://public.tableau.com/app/profile/geronimo.riedener/viz/GlobalHealthInSightss?publish=yes)
+[Global Health Insights Dashboard](https://public.tableau.com/app/profile/geronimo.riedener/viz/GlobalHealthInSights_17834213651050/GlobalHealthInsights)
 
 
 These visualisations were combined into a dashboard called **Global Health Insights**, allowing users to explore health data through interactive filters and charts. The analysis revealed that life expectancy has generally increased over time, indicating improvements in healthcare, living standards, and public health initiatives worldwide. 【1-87eb72】
@@ -38,7 +38,7 @@ The goal was to identify trends and relationships within the music industry thro
 
 <img width="1858" height="820" alt="image" src="https://github.com/user-attachments/assets/ee54dcd8-969e-42fa-b999-7d886471bb04" />
 
-[Spotify Trends Dashboard](https://public.tableau.com/app/profile/geronimo.riedener/viz/SpotifyFeatures_178343731606s) 
+[Spotify Trends Dashboard](https://public.tableau.com/app/profile/geronimo.riedener/viz/SpotifyFeatures_17834373160690/SpotifyTrends) 
 
 
 ## 🚀 Skills Developed
