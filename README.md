@@ -40,6 +40,20 @@ The goal was to identify trends and relationships within the music industry thro
 
 [Spotify Trends Dashboard](https://public.tableau.com/app/profile/geronimo.riedener/viz/SpotifyFeatures_17834373160690/SpotifyTrends) 
 
+## GB Employment Data
+
+For the third project, I reviewed Employment dataset for UK containing infomation about industry and sub industry employing workers across major locations within the UK.
+The Goal was to better understand the disruption of employment across the UK and how the industry have grown.
+
+###Key Findings
+
+- London in the only region that has shown growth across the board for each industry
+- London has strong focus on professional, Scientific and techniacl activities industry
+- Infomation and communication is the industry with the lowest employment range
+
+<img width="1853" height="831" alt="image" src="https://github.com/user-attachments/assets/d2bac7c8-ce17-43ba-9649-dcb35fdd7dc1" />
+
+[GB Employment Dashbroad](https://public.tableau.com/app/profile/geronimo.riedener/viz/GBEmplymentDataset/GBEmploymentData)
 
 ## 🚀 Skills Developed
 
