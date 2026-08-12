@@ -45,7 +45,7 @@ The goal was to identify trends and relationships within the music industry thro
 For the third project, I reviewed Employment dataset for UK containing infomation about industry and sub industry employing workers across major locations within the UK.
 The Goal was to better understand the disruption of employment across the UK and how the industry have grown.
 
-###Key Findings
+### Key Findings
 
 - London in the only region that has shown growth across the board for each industry
 - London has strong focus on professional, Scientific and techniacl activities industry
