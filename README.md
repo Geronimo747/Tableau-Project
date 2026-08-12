@@ -40,7 +40,7 @@ The goal was to identify trends and relationships within the music industry thro
 
 [Spotify Trends Dashboard](https://public.tableau.com/app/profile/geronimo.riedener/viz/SpotifyFeatures_17834373160690/SpotifyTrends) 
 
-## GB Employment Data
+## 💼 GB Employment Data
 
 For the third project, I reviewed Employment dataset for UK containing infomation about industry and sub industry employing workers across major locations within the UK.
 The Goal was to better understand the disruption of employment across the UK and how the industry have grown.
@@ -55,7 +55,7 @@ The Goal was to better understand the disruption of employment across the UK and
 
 [GB Employment Dashbroad](https://public.tableau.com/app/profile/geronimo.riedener/viz/GBEmplymentDataset/GBEmploymentData)
 
-## 🚀 Skills Developed
+## Skills Developed
 
 Throughout both projects, I strengthened my ability to:
 
@@ -67,6 +67,6 @@ Throughout both projects, I strengthened my ability to:
 - Communicate findings through data storytelling
 - Publish dashboards using Tableau Public
 
-## ✅ Conclusion
+## Conclusion
 
 These projects demonstrated how Tableau can transform raw data into meaningful insights that support decision-making across different industries. By analysing both global health and music datasets, I gained hands
