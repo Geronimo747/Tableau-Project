@@ -1,4 +1,4 @@
-# Tableau-Project
+# <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/ba2ef769-bd4b-48de-87ea-cc38e4c400df" /> Tableau-Project
 
 
 I completed two Tableau projects focused on analysing real-world datasets and presenting insights through interactive dashboards. These exercises helped me develop practical skills in data visualisation, trend analysis, dashboard design, and data storytelling. 
