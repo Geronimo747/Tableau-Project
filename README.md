@@ -51,7 +51,7 @@ The Goal was to better understand the disruption of employment across the UK and
 - London has strong focus on professional, Scientific and techniacl activities industry
 - Infomation and communication is the industry with the lowest employment range
 
-<img width="1853" height="831" alt="image" src="https://github.com/user-attachments/assets/d2bac7c8-ce17-43ba-9649-dcb35fdd7dc1" />
+<img width="1862" height="883" alt="image" src="https://github.com/user-attachments/assets/a3abfc05-185f-42cc-a91b-02be2ec11af0" />
 
 [GB Employment Dashbroad](https://public.tableau.com/app/profile/geronimo.riedener/viz/GBEmplymentDataset/GBEmploymentData)
 
