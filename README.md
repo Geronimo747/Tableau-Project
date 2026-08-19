@@ -13,6 +13,7 @@ Using the **Gapminder Health** dataset, I created a series of visualisations to 
 - Life Expectancy vs BMI (Scatter Plot)
 - Additional visualisation of my choice
 - Interactive dashboard creation
+
 [<img width="1856" height="872" alt="image" src="https://github.com/user-attachments/assets/4bdcf132-9f29-49ab-b77e-cad0b5a251d5" />](https://public.tableau.com/app/profile/geronimo.riedener/viz/GlobalHealthInSights_17834213651050/GlobalHealthInsights)
 
 
@@ -37,7 +38,7 @@ The goal was to identify trends and relationships within the music industry thro
 - High danceability alone did not guarantee a song would be popular.
 - **Pop** was identified as the most popular genre within the dataset.
 
-<img width="1858" height="820" alt="image" src="https://github.com/user-attachments/assets/ee54dcd8-969e-42fa-b999-7d886471bb04" />
+[<img width="1858" height="820" alt="image" src="https://github.com/user-attachments/assets/ee54dcd8-969e-42fa-b999-7d886471bb04" />](https://public.tableau.com/app/profile/geronimo.riedener/viz/SpotifyFeatures_17834373160690/SpotifyTrends) 
 
 [Spotify Trends Dashboard](https://public.tableau.com/app/profile/geronimo.riedener/viz/SpotifyFeatures_17834373160690/SpotifyTrends) 
 
@@ -52,7 +53,8 @@ The Goal was to better understand the disruption of employment across the UK and
 - London has strong focus on professional, Scientific and techniacl activities industry
 - Infomation and communication is the industry with the lowest employment range
 
-<img width="1851" height="827" alt="image" src="https://github.com/user-attachments/assets/a8d50c7f-a6c6-4b2b-bffb-81bf84b926ec" />
+[<img width="1851" height="827" alt="image" src="https://github.com/user-attachments/assets/a8d50c7f-a6c6-4b2b-bffb-81bf84b926ec" />](https://public.tableau.com/app/profile/geronimo.riedener/viz/GBEmplymentDataset/GBEmploymentData)
+
 
 [GB Employment Dashbroad](https://public.tableau.com/app/profile/geronimo.riedener/viz/GBEmplymentDataset/GBEmploymentData)
 
