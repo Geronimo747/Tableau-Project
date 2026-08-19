@@ -13,7 +13,8 @@ Using the **Gapminder Health** dataset, I created a series of visualisations to 
 - Life Expectancy vs BMI (Scatter Plot)
 - Additional visualisation of my choice
 - Interactive dashboard creation
-<img width="1856" height="872" alt="image" src="https://github.com/user-attachments/assets/4bdcf132-9f29-49ab-b77e-cad0b5a251d5" />
+[<img width="1856" height="872" alt="image" src="https://github.com/user-attachments/assets/4bdcf132-9f29-49ab-b77e-cad0b5a251d5" />}(https://public.tableau.com/app/profile/geronimo.riedener/viz/GlobalHealthInSights_17834213651050/GlobalHealthInsights)
+
 
 [Global Health Insights Dashboard](https://public.tableau.com/app/profile/geronimo.riedener/viz/GlobalHealthInSights_17834213651050/GlobalHealthInsights)
 
